@@ -1,1 +1,1 @@
-# DataScienceCapston
+# DataScienceCapstone
